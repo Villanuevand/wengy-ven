@@ -1,9 +1,13 @@
 **Estoy enviando un ...**  (marque con una "x")
-```
-[ ] Error reportado (Haz referencia al issue) => (Busca en github un issue o PR antés de enviar uno, NO olvides borrar esto).
-[ ] Solicitud de caracteristica, mejora. (Haz referencia al issue, marcado como "Mejora", NO olvides borrar esto)
 
-```
+<!--
+Usa
+-->
+
+- ✅ Solicitud de caracteristica, mejora. 👌_(Busca en github un issue, marcado como "Mejora", NO olvides borrar esto)_
+
+- Error. 🐞 _(Busca en github un issue antes de enviar uno, NO olvides borrar esto)_
+
 
 **Comportamiento Actual** 
 <!-- Describe como aparece el bug. -->
